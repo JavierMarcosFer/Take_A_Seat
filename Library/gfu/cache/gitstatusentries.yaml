@@ -1,0 +1,1200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2019-10-08T05:37:08.011-03:00
+  initializedAtString: 2019-10-08T05:30:21.903-03:00
+  entries:
+  - path: Art Resources\UI\Boxes\Choice box.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Art Resources\UI\Boxes\Choice box.png
+    projectPath: ..\Art Resources\UI\Boxes\Choice box.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\.vs\Unity Project\v15\.suo
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\.vs\Unity Project\v15\.suo
+    projectPath: .vs\Unity Project\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\.vs\Unity Project\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\.vs\Unity Project\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Unity Project\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\.vs\Unity Project\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\.vs\Unity Project\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Unity Project\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\.vs\Unity Project\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\.vs\Unity Project\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Unity Project\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assembly-CSharp.csproj
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Resources\Art\Foreground\Background.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Art\Foreground\Background.png
+    projectPath: Assets\Resources\Art\Foreground\Background.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Art\Foreground\Background.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Art\Foreground\Background.png.meta
+    projectPath: Assets\Resources\Art\Foreground\Background.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Events Button Harding.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Events
+      Button Harding.png
+    projectPath: Assets\Resources\Buttons\Events Button Harding.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Events Button Harding.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Events
+      Button Harding.png.meta
+    projectPath: Assets\Resources\Buttons\Events Button Harding.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Events Button Interrogator.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Events
+      Button Interrogator.png
+    projectPath: Assets\Resources\Buttons\Events Button Interrogator.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Events Button Interrogator.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Events
+      Button Interrogator.png.meta
+    projectPath: Assets\Resources\Buttons\Events Button Interrogator.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Items Button Harding.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Items
+      Button Harding.png
+    projectPath: Assets\Resources\Buttons\Items Button Harding.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Items Button Harding.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Items
+      Button Harding.png.meta
+    projectPath: Assets\Resources\Buttons\Items Button Harding.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Items Button Interrogator.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Items
+      Button Interrogator.png
+    projectPath: Assets\Resources\Buttons\Items Button Interrogator.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Items Button Interrogator.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Items
+      Button Interrogator.png.meta
+    projectPath: Assets\Resources\Buttons\Items Button Interrogator.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\Memory File 1.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Memory
+      File 1.png
+    projectPath: Assets\Resources\Buttons\Memory File 1.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Assets\Resources\Buttons\Memory File 1.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Memory
+      File 1.png.meta
+    projectPath: Assets\Resources\Buttons\Memory File 1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Assets\Resources\Buttons\Memory File 2.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Memory
+      File 2.png
+    projectPath: Assets\Resources\Buttons\Memory File 2.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Assets\Resources\Buttons\Memory File 2.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Memory
+      File 2.png.meta
+    projectPath: Assets\Resources\Buttons\Memory File 2.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Assets\Resources\Buttons\Memory File 3.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Memory
+      File 3.png
+    projectPath: Assets\Resources\Buttons\Memory File 3.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Assets\Resources\Buttons\Memory File 3.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\Memory
+      File 3.png.meta
+    projectPath: Assets\Resources\Buttons\Memory File 3.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Assets\Resources\Buttons\People Button Harding.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\People
+      Button Harding.png
+    projectPath: Assets\Resources\Buttons\People Button Harding.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\People Button Harding.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\People
+      Button Harding.png.meta
+    projectPath: Assets\Resources\Buttons\People Button Harding.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\People Button Interrogator.png
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\People
+      Button Interrogator.png
+    projectPath: Assets\Resources\Buttons\People Button Interrogator.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Buttons\People Button Interrogator.png.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Buttons\People
+      Button Interrogator.png.meta
+    projectPath: Assets\Resources\Buttons\People Button Interrogator.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Sound\UI\Choose category.wav
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Sound\UI\Choose
+      category.wav
+    projectPath: Assets\Resources\Sound\UI\Choose category.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Sound\UI\Choose category.wav.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Sound\UI\Choose
+      category.wav.meta
+    projectPath: Assets\Resources\Sound\UI\Choose category.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Sound\UI\Subtle UI Mouseover.wav
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Sound\UI\Subtle
+      UI Mouseover.wav
+    projectPath: Assets\Resources\Sound\UI\Subtle UI Mouseover.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Sound\UI\Subtle UI Mouseover.wav.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Sound\UI\Subtle
+      UI Mouseover.wav.meta
+    projectPath: Assets\Resources\Sound\UI\Subtle UI Mouseover.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Sound\UI\Switch Sound Effect.wav
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Sound\UI\Switch
+      Sound Effect.wav
+    projectPath: Assets\Resources\Sound\UI\Switch Sound Effect.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Resources\Sound\UI\Switch Sound Effect.wav.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Resources\Sound\UI\Switch
+      Sound Effect.wav.meta
+    projectPath: Assets\Resources\Sound\UI\Switch Sound Effect.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Core\CreditsButton.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Core\CreditsButton.cs
+    projectPath: Assets\Scripts\Core\CreditsButton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Core\CreditsButton.cs.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Core\CreditsButton.cs.meta
+    projectPath: Assets\Scripts\Core\CreditsButton.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Core\Foreground.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Core\Foreground.cs
+    projectPath: Assets\Scripts\Core\Foreground.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueAnswer.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueAnswer.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueAnswer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueAnswerThree.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueAnswerThree.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueAnswerThree.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueAnswerThree.cs.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueAnswerThree.cs.meta
+    projectPath: Assets\Scripts\Dialogue\DialogueAnswerThree.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueAnswerTwo.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueAnswerTwo.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueAnswerTwo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueAnswerTwo.cs.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueAnswerTwo.cs.meta
+    projectPath: Assets\Scripts\Dialogue\DialogueAnswerTwo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueConfess.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueConfess.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueConfess.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueExposed.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueExposed.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueExposed.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueExposeSuspect.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueExposeSuspect.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueExposeSuspect.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueInjuries.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueInjuries.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueInjuries.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueKey.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueKey.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueKey.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueLocationLocation.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueLocationLocation.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueLocationLocation.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueManager.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueManager.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueMyFriend.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueMyFriend.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueMyFriend.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueOnlyThem.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueOnlyThem.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueOnlyThem.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialoguePlayAlong.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialoguePlayAlong.cs
+    projectPath: Assets\Scripts\Dialogue\DialoguePlayAlong.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueRemainSilent.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueRemainSilent.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueRemainSilent.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueTellMeMore.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueTellMeMore.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueTellMeMore.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueTellMeMore2.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueTellMeMore2.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueTellMeMore2.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueTumblingDownAbridged.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueTumblingDownAbridged.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueTumblingDownAbridged.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueTumblingDownAbridged.cs.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueTumblingDownAbridged.cs.meta
+    projectPath: Assets\Scripts\Dialogue\DialogueTumblingDownAbridged.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Dialogue\DialogueYouDontHaveToKnow.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\DialogueYouDontHaveToKnow.cs
+    projectPath: Assets\Scripts\Dialogue\DialogueYouDontHaveToKnow.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\EndingFightNight.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\EndingFightNight.cs
+    projectPath: Assets\Scripts\Dialogue\EndingFightNight.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Dialogue\EndingSilent.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Dialogue\EndingSilent.cs
+    projectPath: Assets\Scripts\Dialogue\EndingSilent.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesBackButton.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesBackButton.cs
+    projectPath: Assets\Scripts\Memories\MemoriesBackButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesCategoryButton.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesCategoryButton.cs
+    projectPath: Assets\Scripts\Memories\MemoriesCategoryButton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesCategoryButton.cs.meta
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesCategoryButton.cs.meta
+    projectPath: Assets\Scripts\Memories\MemoriesCategoryButton.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesMenuButton.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesMenuButton.cs
+    projectPath: Assets\Scripts\Memories\MemoriesMenuButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesPanel.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesPanel.cs
+    projectPath: Assets\Scripts\Memories\MemoriesPanel.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesRepos\InterrogatorFlashbackRepo.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesRepos\InterrogatorFlashbackRepo.cs
+    projectPath: Assets\Scripts\Memories\MemoriesRepos\InterrogatorFlashbackRepo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesRepos\PeopleRepo.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesRepos\PeopleRepo.cs
+    projectPath: Assets\Scripts\Memories\MemoriesRepos\PeopleRepo.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Assets\Scripts\Memories\MemoriesShiftButton.cs
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Assets\Scripts\Memories\MemoriesShiftButton.cs
+    projectPath: Assets\Scripts\Memories\MemoriesShiftButton.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\assetDatabase3
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\EditorInstance.json
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\LastBuild.buildreport
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\01\0104fcae62c32794cad98f366b6c3ec7
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\01\0104fcae62c32794cad98f366b6c3ec7
+    projectPath: Library\metadata\01\0104fcae62c32794cad98f366b6c3ec7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\01\014d876c5c11da945a81d17d6b39c156
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\01\014d876c5c11da945a81d17d6b39c156
+    projectPath: Library\metadata\01\014d876c5c11da945a81d17d6b39c156
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\08\08b70d25c53164246bf55b87b1e3974d
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\08\08b70d25c53164246bf55b87b1e3974d
+    projectPath: Library\metadata\08\08b70d25c53164246bf55b87b1e3974d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\18\18afb3bd09cff734898dc894feadce20
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\18\18afb3bd09cff734898dc894feadce20
+    projectPath: Library\metadata\18\18afb3bd09cff734898dc894feadce20
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\22\2277f39c3f998b442a62d626be59ba96
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\22\2277f39c3f998b442a62d626be59ba96
+    projectPath: Library\metadata\22\2277f39c3f998b442a62d626be59ba96
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\22\2277f39c3f998b442a62d626be59ba96.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\22\2277f39c3f998b442a62d626be59ba96.info
+    projectPath: Library\metadata\22\2277f39c3f998b442a62d626be59ba96.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\22\2277f39c3f998b442a62d626be59ba96.resource
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\22\2277f39c3f998b442a62d626be59ba96.resource
+    projectPath: Library\metadata\22\2277f39c3f998b442a62d626be59ba96.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\23\23e6f4a799d5ab44ab5de4c512abe22a
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\23\23e6f4a799d5ab44ab5de4c512abe22a
+    projectPath: Library\metadata\23\23e6f4a799d5ab44ab5de4c512abe22a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\2a\2a4a6ab0e8cd17a49b0ca2ae8e8dfa44
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\2a\2a4a6ab0e8cd17a49b0ca2ae8e8dfa44
+    projectPath: Library\metadata\2a\2a4a6ab0e8cd17a49b0ca2ae8e8dfa44
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\2a\2aeb2c9bcc131f54da1eec0859aede30
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\2a\2aeb2c9bcc131f54da1eec0859aede30
+    projectPath: Library\metadata\2a\2aeb2c9bcc131f54da1eec0859aede30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\2a\2aeb2c9bcc131f54da1eec0859aede30.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\2a\2aeb2c9bcc131f54da1eec0859aede30.info
+    projectPath: Library\metadata\2a\2aeb2c9bcc131f54da1eec0859aede30.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\30\30d59deed3cacae45a2793994b5e99b3
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\30\30d59deed3cacae45a2793994b5e99b3
+    projectPath: Library\metadata\30\30d59deed3cacae45a2793994b5e99b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\30\30d59deed3cacae45a2793994b5e99b3.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\30\30d59deed3cacae45a2793994b5e99b3.info
+    projectPath: Library\metadata\30\30d59deed3cacae45a2793994b5e99b3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\43\43c584bf685838f4db1c7ef0db760d67
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\43\43c584bf685838f4db1c7ef0db760d67
+    projectPath: Library\metadata\43\43c584bf685838f4db1c7ef0db760d67
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\47\4731b64b71f22fd4194736e07ec593ed
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\47\4731b64b71f22fd4194736e07ec593ed
+    projectPath: Library\metadata\47\4731b64b71f22fd4194736e07ec593ed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e
+    projectPath: Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e.info
+    projectPath: Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e.resource
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e.resource
+    projectPath: Library\metadata\4e\4ed58877a161c9f41b33961b4b43b11e.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\54\54e3fef0950ec7b409001642eed8e26d
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\54\54e3fef0950ec7b409001642eed8e26d
+    projectPath: Library\metadata\54\54e3fef0950ec7b409001642eed8e26d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\55\55631e5c4ddc13c46802edfc454500f1
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\55\55631e5c4ddc13c46802edfc454500f1
+    projectPath: Library\metadata\55\55631e5c4ddc13c46802edfc454500f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\5c\5c17dc714f2184f48b190d28cd471f7b
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\5c\5c17dc714f2184f48b190d28cd471f7b
+    projectPath: Library\metadata\5c\5c17dc714f2184f48b190d28cd471f7b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\5c\5cdd45c229eb90c45b52ae5f4efd3832
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\5c\5cdd45c229eb90c45b52ae5f4efd3832
+    projectPath: Library\metadata\5c\5cdd45c229eb90c45b52ae5f4efd3832
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\5c\5cdd45c229eb90c45b52ae5f4efd3832.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\5c\5cdd45c229eb90c45b52ae5f4efd3832.info
+    projectPath: Library\metadata\5c\5cdd45c229eb90c45b52ae5f4efd3832.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\5d\5d55ff8afc76f7f499478d9aed33d98c
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\5d\5d55ff8afc76f7f499478d9aed33d98c
+    projectPath: Library\metadata\5d\5d55ff8afc76f7f499478d9aed33d98c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\5d\5d55ff8afc76f7f499478d9aed33d98c.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\5d\5d55ff8afc76f7f499478d9aed33d98c.info
+    projectPath: Library\metadata\5d\5d55ff8afc76f7f499478d9aed33d98c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\5f\5f3317043fbf79b4bab1c185fcef2d1e
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\5f\5f3317043fbf79b4bab1c185fcef2d1e
+    projectPath: Library\metadata\5f\5f3317043fbf79b4bab1c185fcef2d1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\65\65a018291c04f47458cbdaa7c3d0cf1a
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\65\65a018291c04f47458cbdaa7c3d0cf1a
+    projectPath: Library\metadata\65\65a018291c04f47458cbdaa7c3d0cf1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\65\65a018291c04f47458cbdaa7c3d0cf1a.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\65\65a018291c04f47458cbdaa7c3d0cf1a.info
+    projectPath: Library\metadata\65\65a018291c04f47458cbdaa7c3d0cf1a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\68\68e09f5091d7c394c81652e4a17d9c1d
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\68\68e09f5091d7c394c81652e4a17d9c1d
+    projectPath: Library\metadata\68\68e09f5091d7c394c81652e4a17d9c1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\68\68e09f5091d7c394c81652e4a17d9c1d.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\68\68e09f5091d7c394c81652e4a17d9c1d.info
+    projectPath: Library\metadata\68\68e09f5091d7c394c81652e4a17d9c1d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\6a\6aeedf3b18aeea54d9b798c4aa45278b
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\6a\6aeedf3b18aeea54d9b798c4aa45278b
+    projectPath: Library\metadata\6a\6aeedf3b18aeea54d9b798c4aa45278b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\6a\6aeedf3b18aeea54d9b798c4aa45278b.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\6a\6aeedf3b18aeea54d9b798c4aa45278b.info
+    projectPath: Library\metadata\6a\6aeedf3b18aeea54d9b798c4aa45278b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\6c\6c39014b6c308e3479b7c44f7b94f091
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\6c\6c39014b6c308e3479b7c44f7b94f091
+    projectPath: Library\metadata\6c\6c39014b6c308e3479b7c44f7b94f091
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\74\74787367487429742ad1d8202b4d7688
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\74\74787367487429742ad1d8202b4d7688
+    projectPath: Library\metadata\74\74787367487429742ad1d8202b4d7688
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\78\78091ddde4c9c504f814abcff2a2e90e
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\78\78091ddde4c9c504f814abcff2a2e90e
+    projectPath: Library\metadata\78\78091ddde4c9c504f814abcff2a2e90e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Library\metadata\78\78091ddde4c9c504f814abcff2a2e90e.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\78\78091ddde4c9c504f814abcff2a2e90e.info
+    projectPath: Library\metadata\78\78091ddde4c9c504f814abcff2a2e90e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Library\metadata\79\795786ac5d9148f4cb3677e5802b3503
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\79\795786ac5d9148f4cb3677e5802b3503
+    projectPath: Library\metadata\79\795786ac5d9148f4cb3677e5802b3503
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\81\81bb90811c0de464898ebabcbc58e00c
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\81\81bb90811c0de464898ebabcbc58e00c
+    projectPath: Library\metadata\81\81bb90811c0de464898ebabcbc58e00c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\81\81bb90811c0de464898ebabcbc58e00c.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\81\81bb90811c0de464898ebabcbc58e00c.info
+    projectPath: Library\metadata\81\81bb90811c0de464898ebabcbc58e00c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\94\9470746179f9d08439563440595d8e37
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\94\9470746179f9d08439563440595d8e37
+    projectPath: Library\metadata\94\9470746179f9d08439563440595d8e37
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\99\994bc4f7de02bbf47930e6c67c092cfa
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\99\994bc4f7de02bbf47930e6c67c092cfa
+    projectPath: Library\metadata\99\994bc4f7de02bbf47930e6c67c092cfa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\9d\9d0338da587a97c4f98a04ced01fe692
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\9d\9d0338da587a97c4f98a04ced01fe692
+    projectPath: Library\metadata\9d\9d0338da587a97c4f98a04ced01fe692
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f
+    projectPath: Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f.info
+    projectPath: Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f.resource
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f.resource
+    projectPath: Library\metadata\9e\9ee9a280a1a1a3a4bb5eb5bf539c9a5f.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\a2\a28aed175511c8c4eaee58ea95950551
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\a2\a28aed175511c8c4eaee58ea95950551
+    projectPath: Library\metadata\a2\a28aed175511c8c4eaee58ea95950551
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\a2\a28aed175511c8c4eaee58ea95950551.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\a2\a28aed175511c8c4eaee58ea95950551.info
+    projectPath: Library\metadata\a2\a28aed175511c8c4eaee58ea95950551.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\ab\abefc5cd73862814e98f4db3e30c5cda
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\ab\abefc5cd73862814e98f4db3e30c5cda
+    projectPath: Library\metadata\ab\abefc5cd73862814e98f4db3e30c5cda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\c9\c943b5eed9a78794987decb01ef81ade
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\c9\c943b5eed9a78794987decb01ef81ade
+    projectPath: Library\metadata\c9\c943b5eed9a78794987decb01ef81ade
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\d0\d03211d2d8ca5da47a95aa6294648fbc
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\d0\d03211d2d8ca5da47a95aa6294648fbc
+    projectPath: Library\metadata\d0\d03211d2d8ca5da47a95aa6294648fbc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Library\metadata\d0\d03211d2d8ca5da47a95aa6294648fbc.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\d0\d03211d2d8ca5da47a95aa6294648fbc.info
+    projectPath: Library\metadata\d0\d03211d2d8ca5da47a95aa6294648fbc.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Library\metadata\d1\d1caf306fe146804ca3354bf2764a829
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\d1\d1caf306fe146804ca3354bf2764a829
+    projectPath: Library\metadata\d1\d1caf306fe146804ca3354bf2764a829
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Library\metadata\d1\d1caf306fe146804ca3354bf2764a829.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\d1\d1caf306fe146804ca3354bf2764a829.info
+    projectPath: Library\metadata\d1\d1caf306fe146804ca3354bf2764a829.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Unity Project\Library\metadata\d2\d26ccea5bdeca6945a2b345e8a794a89
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\d2\d26ccea5bdeca6945a2b345e8a794a89
+    projectPath: Library\metadata\d2\d26ccea5bdeca6945a2b345e8a794a89
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\d5\d5f8e3680cd6d48408e1432f2465bf90
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\d5\d5f8e3680cd6d48408e1432f2465bf90
+    projectPath: Library\metadata\d5\d5f8e3680cd6d48408e1432f2465bf90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\dc\dc2edf74d12ece343be5b58993b37528
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\dc\dc2edf74d12ece343be5b58993b37528
+    projectPath: Library\metadata\dc\dc2edf74d12ece343be5b58993b37528
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\dc\dc2edf74d12ece343be5b58993b37528.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\dc\dc2edf74d12ece343be5b58993b37528.info
+    projectPath: Library\metadata\dc\dc2edf74d12ece343be5b58993b37528.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\df\dfebe893b55ce6f4ea8387631f3303df
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\df\dfebe893b55ce6f4ea8387631f3303df
+    projectPath: Library\metadata\df\dfebe893b55ce6f4ea8387631f3303df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\df\dfebe893b55ce6f4ea8387631f3303df.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\df\dfebe893b55ce6f4ea8387631f3303df.info
+    projectPath: Library\metadata\df\dfebe893b55ce6f4ea8387631f3303df.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\e0\e0410903b96bb144eb5cfce1158645b1
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\e0\e0410903b96bb144eb5cfce1158645b1
+    projectPath: Library\metadata\e0\e0410903b96bb144eb5cfce1158645b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\metadata\e3\e398a6e5705a48a498fcc0769febf4aa
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\e3\e398a6e5705a48a498fcc0769febf4aa
+    projectPath: Library\metadata\e3\e398a6e5705a48a498fcc0769febf4aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\e3\e398a6e5705a48a498fcc0769febf4aa.info
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\e3\e398a6e5705a48a498fcc0769febf4aa.info
+    projectPath: Library\metadata\e3\e398a6e5705a48a498fcc0769febf4aa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Library\metadata\ea\ea1ff78e2e8e3f9428a173b929ee6988
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\metadata\ea\ea1ff78e2e8e3f9428a173b929ee6988
+    projectPath: Library\metadata\ea\ea1ff78e2e8e3f9428a173b929ee6988
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\level0
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\level0
+    projectPath: Library\PlayerDataCache\Win64\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\resources.assets
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\resources.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\resources.assets.resS
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\resources.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\resources.resource
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\resources.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\resources.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win64\ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\StateCache\Hierarchy\3bf060-mainStage.json
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\StateCache\Hierarchy\3bf060-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\3bf060-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Library\StateCache\SceneView\b37072-mainStage.json
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Library\StateCache\SceneView\b37072-mainStage.json
+    projectPath: Library\StateCache\SceneView\b37072-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Unity Project\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityLockfile
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-01b2618c29c15f948b91dcce58baafbd
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-01b2618c29c15f948b91dcce58baafbd
+    projectPath: Temp\UnityTempFile-01b2618c29c15f948b91dcce58baafbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-1822dfddfd99e4040be6840266b4b27a
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-1822dfddfd99e4040be6840266b4b27a
+    projectPath: Temp\UnityTempFile-1822dfddfd99e4040be6840266b4b27a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-206a7868317430249b4aadc1eb0a4358
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-206a7868317430249b4aadc1eb0a4358
+    projectPath: Temp\UnityTempFile-206a7868317430249b4aadc1eb0a4358
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-25c95c96b5632bf4fa1860b919f4c9e6
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-25c95c96b5632bf4fa1860b919f4c9e6
+    projectPath: Temp\UnityTempFile-25c95c96b5632bf4fa1860b919f4c9e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-654614dc3b75cbc4b84dc5ce354ea108
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-654614dc3b75cbc4b84dc5ce354ea108
+    projectPath: Temp\UnityTempFile-654614dc3b75cbc4b84dc5ce354ea108
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-845d1e20e206c424c92592684a101356
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-845d1e20e206c424c92592684a101356
+    projectPath: Temp\UnityTempFile-845d1e20e206c424c92592684a101356
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-942a61f670815364786bb83488eded4f
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-942a61f670815364786bb83488eded4f
+    projectPath: Temp\UnityTempFile-942a61f670815364786bb83488eded4f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-9f74ef1555d8d1e4f83e4faa13897a79
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-9f74ef1555d8d1e4f83e4faa13897a79
+    projectPath: Temp\UnityTempFile-9f74ef1555d8d1e4f83e4faa13897a79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-a9f051cf0e36db4479501c1fdaf927a3
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-a9f051cf0e36db4479501c1fdaf927a3
+    projectPath: Temp\UnityTempFile-a9f051cf0e36db4479501c1fdaf927a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-b8bf15a49a8abef49953aa6f26306fda
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-b8bf15a49a8abef49953aa6f26306fda
+    projectPath: Temp\UnityTempFile-b8bf15a49a8abef49953aa6f26306fda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-ba6cdb03f4f14e543b8b753f56335458
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-ba6cdb03f4f14e543b8b753f56335458
+    projectPath: Temp\UnityTempFile-ba6cdb03f4f14e543b8b753f56335458
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-c4a39dd36bb831349b3e3d203a69829f
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-c4a39dd36bb831349b3e3d203a69829f
+    projectPath: Temp\UnityTempFile-c4a39dd36bb831349b3e3d203a69829f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-c75df4c0563bfb74a89ad0d6ec8ee442
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-c75df4c0563bfb74a89ad0d6ec8ee442
+    projectPath: Temp\UnityTempFile-c75df4c0563bfb74a89ad0d6ec8ee442
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Unity Project\Temp\UnityTempFile-cb4b005019e8c14459e6efef01812698
+    fullPath: C:\Users\Javier\Desktop\IMGD\Maestro\Unity Project\Temp\UnityTempFile-cb4b005019e8c14459e6efef01812698
+    projectPath: Temp\UnityTempFile-cb4b005019e8c14459e6efef01812698
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
